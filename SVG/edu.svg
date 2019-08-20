@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="97" viewBox="0 0 160 97">
+  <g id="edu" transform="translate(-360 -1809)">
+    <g id="Edu-2" data-name="Edu">
+      <g id="project" transform="translate(-394 7)">
+        <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(754 1882)" fill="#ff6f59" stroke="#707070" stroke-width="1">
+          <rect width="160" height="17" rx="8.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="159" height="16" rx="8" fill="none"/>
+        </g>
+        <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(899 1802)" fill="#17bebb" stroke="#707070" stroke-width="1">
+          <rect width="15" height="97" rx="7.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="14" height="96" rx="7" fill="none"/>
+        </g>
+        <g id="Path_54" data-name="Path 54" transform="translate(754 1802)" fill="#ffd23f">
+          <path d="M 151.5 16.5 L 8.5 16.5 C 4.088779926300049 16.5 0.5 12.91121959686279 0.5 8.5 C 0.5 4.088779926300049 4.088779926300049 0.5 8.5 0.5 L 151.5 0.5 C 155.9112243652344 0.5 159.5 4.088779926300049 159.5 8.5 C 159.5 12.91121959686279 155.9112243652344 16.5 151.5 16.5 Z" stroke="none"/>
+          <path d="M 8.5 1 C 4.364486694335938 1 1 4.364479064941406 1 8.5 C 1 12.63552093505859 4.364486694335938 16 8.5 16 L 151.5 16 C 155.6355285644531 16 159 12.63552093505859 159 8.5 C 159 4.364479064941406 155.6355285644531 1 151.5 1 L 8.5 1 M 8.5 0 L 151.5 0 C 156.1944122314453 0 160 3.805583000183105 160 8.5 C 160 13.19441699981689 156.1944122314453 17 151.5 17 L 8.5 17 C 3.805557250976563 17 0 13.19441699981689 0 8.5 C 0 3.805583000183105 3.805557250976563 0 8.5 0 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(754 1802)" fill="#05668d" stroke="#707070" stroke-width="1">
+          <rect width="15" height="97" rx="7.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="14" height="96" rx="7" fill="none"/>
+        </g>
+      </g>
+      <text id="E" transform="translate(423 1877)" fill="#fff" font-size="63" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">E</tspan></text>
+    </g>
+  </g>
+</svg>
